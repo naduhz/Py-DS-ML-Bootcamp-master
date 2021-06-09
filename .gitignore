@@ -3,3 +3,6 @@
 
 # Environment settings
 /.vscode
+
+# Logs
+/22-Deep Learning/TensorFlow_FILES/ANNs/logs
